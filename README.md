@@ -1,6 +1,6 @@
 
-# 各种地址9
->>>>>> upstream/master
+# 各种地址KK
+
 ## 国内的android工具下载地址
 www.androiddevtools.cn
 ## Android官网文档地址
